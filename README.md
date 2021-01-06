@@ -124,6 +124,50 @@ A collection of awesome things regarding the DeFi ecosystem.
 		
 		- [USDC-V2 Upgrading A Multi Billion Dollar ERC20 Token](https://blog.coinbase.com/usdc-v2-upgrading-a-multi-billion-dollar-erc-20-token-b57cd9437096)
 
+- ##### Synthetix
+
+	- [Video: Intro to Synthetix](https://www.youtube.com/watch?v=MKVLvlk_Lhs)
+	- [Balance Sheet as Business Model](https://thedefiant.substack.com/p/balance-sheet-as-a-business-model)
+	- [Synthetix migration to DAOs](https://thedefiant.substack.com/p/the-defi-holy-grail-synthetix-dissolves)
+
+- ##### AAVE
+
+	- [Presentation](https://docs.google.com/presentation/d/1bMHygutCu_a5hA0g5Ino2cZqgkjcshRBYx2LbQNLYrE/edit#slide=id.g808dc85a00_0_55)
+
+	###### Hackathons
+		
+		- [11-19 SF Defi](https://medium.com/aave/san-francisco-defi-hackathon-recap-of-the-mind-blowing-hacks-73783b2d5a5f)
+		- [11-19 Gitcoin X AAVE](https://medium.com/aave/gitcoin-x-aave-hackathon-recap-f61d24af2cb)
+
+	###### DeFi Characteristics
+		- Eth, Solana Pipelines
+		- Composible
+
+	###### Fintech Major Characteristics
+		- Liquidity is the QUEEN
+
+	##### DeFi Categories
+		- Staking Pools
+			- Unique to DeFi
+		- Collateral
+			- TraFi
+			- Composible, Trackable, Tradable
+		- Liquidity Pools
+		- Loans
+
+	##### AMMS
+		- Uniswap, Sushis
+		- Liquidity Pools
+		- Margin Trading needs Collateral Loans
+
+	##### HEGIC
+		- 
+
+	##### TraFi Products
+
+	##### Notes
+		- Timing is crucial
+
 
 ##### DISCLAIMER
 
