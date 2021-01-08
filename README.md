@@ -168,6 +168,31 @@ A collection of awesome things regarding the DeFi ecosystem.
 	##### Notes
 		- Timing is crucial
 
+	##### Options
+		- ###### Basics
+			- [Options 101](https://defiweekly.substack.com/p/options-101)
+			- [Hegic docs](https://hegic.gitbook.io/start/)
+			- [Deribit docs](https://insights.deribit.com/education/)
+
+	##### Staking
+
+		- https://medium.com/@viktorbunin/crypto-staking-is-more-useful-than-you-think-8cb3cfe06587
+
+	
+	##### Core Tokens/Protocols List
+
+		1. YFI
+		2. AAVE
+		3. SNX
+		4. HEGIC
+		5. DAI
+		6. USDC
+		7. USDT
+		8. SUSHI
+		9. UNI
+		10. COMP
+
+
 
 ##### DISCLAIMER
 
